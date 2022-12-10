@@ -42,7 +42,7 @@ New and open tickets will not have anyone asigned to them and the prioty set to 
 <img src="https://i.imgur.com/RpZ3Ux9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The open ticket "Ticket #991648" has been assigned to janejane. The priority status has changed from Normal to High. SLA plan was also set and the department remain the same since. In most cases the department will be set to "Support" by default and the admin will have to route the ticket to the appropriate department.
+The open ticket "Ticket #991648" has been assigned to janejane. The priority status has changed from Normal to High. SLA plan was also set and the department remain the same. In most cases the department will be set to "Support" by default and the admin will have to route the ticket to the appropriate department.
 </p>
 <br />
 
@@ -50,7 +50,7 @@ The open ticket "Ticket #991648" has been assigned to janejane. The priority sta
 <img src="https://i.imgur.com/kHcwEeN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket issue was resolved by coordinating by the IT Support team doing an update on the adobe. The ticket status was changed to "resolved", which will closed the ticket.
+Ticket issue was resolved by updating adobe by the IT Support team. The ticket status was changed to "resolved", which will closed the ticket.
 </p>
 <br />
 
@@ -58,6 +58,6 @@ Ticket issue was resolved by coordinating by the IT Support team doing an update
 <img src="https://i.imgur.com/RML5ZMz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Tiket #991648 is no longer an open ticket because it was automatically closed when the status was changed to "resloved" and is now located under the closed tab.
+Ticket #991648 is no longer an open ticket because it was automatically closed when the status was changed to "resloved" and is now located under the closed tab.
 </p>
 <br />
