@@ -30,25 +30,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vdcrflu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+New and open tickets will not have anyone asigned to them and the prioty set to "normal" by default (unless they users were given the options). The Admin will assgined the right agent, set the prioty and SLA, and route the ticket to the appropriate department in the next step.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RpZ3Ux9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The open ticket "Ticket #991648" has been assigned to janejane. The priority status has changed from Normal to High. SLA plan was also set and the department remain the same since. In most cases the department will be set to "Support" by default and the admin will have to route the ticket to the appropriate department.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kHcwEeN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ticket issue was resolved by coordinating by the IT Support team doing an update on the adobe. The ticket status was changed to "resolved", which will closed the ticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/RML5ZMz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Tiket #991648 is no longer an open ticket because it was automatically closed when the status was changed to "resloved" and is now located under the closed tab.
 </p>
 <br />
