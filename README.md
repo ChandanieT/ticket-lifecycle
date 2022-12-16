@@ -50,7 +50,7 @@ The open ticket "Ticket #991648" has been assigned to janejane. The priority sta
 <img src="https://i.imgur.com/kHcwEeN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket issue was resolved by updating adobe by the IT Support team. The ticket status was changed to "resolved", which will closed the ticket.
+Ticket issue was resolved by updating adobe by the IT Support team. The ticket status was changed to "resolved", which will close the ticket.
 </p>
 <br />
 
